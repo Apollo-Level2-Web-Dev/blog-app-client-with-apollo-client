@@ -1,0 +1,35 @@
+.form {
+    width: 30%;
+    height: 350px;
+    border-radius: 10px;
+    background: #010125;
+    margin: 8% auto;
+    padding: 20px;
+    text-align: center;
+    color: white
+}
+
+.form form {
+    margin-top: 20px;
+}
+
+.form input {
+    width: 100%;
+    padding: 5px 10px;
+    border-radius: 8px;
+    color: black;
+    outline: none;
+}
+
+.form button {
+    width: 50%;
+    margin-top: 20px;
+}
+
+.social_icons {
+    width: 30%;
+    font-size: 40px;
+    margin: 20px auto;
+    display: flex;
+    justify-content: space-between;
+}
